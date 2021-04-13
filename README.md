@@ -6,9 +6,7 @@
 * [Bonus Points (Extra Credit)](#bonus-points-extra-credit)
 
 # Problem Statement
-Given the [Names Contact Info Data Set](#names-contact-info-data-set) we want to cleanse and transform the data.
-First, read the input data file (i.e., `data/names-contact-info.csv`). 
-Then, do the cleansing, transformation, and reporting.
+Given the [Names Contact Info Data Set](#names-contact-info-data-set), we want to cleanse, transform, and report on the data.
 
 ## Cleansing
 Eliminate a record if it has any of the following data quality issues:
@@ -47,7 +45,7 @@ In the `data` directory, the Names Contact Info Data Set (`names-contact-info.cs
 * `phone`
 
 # Instructions
-* Please use PySpark DataFrames.
+* Please use PySpark DataFrames,
 * Please check in your code under the `code` directory for review.
 * Please comment your code.
 
