@@ -2,7 +2,8 @@
 # TOC 
 * [Problem Statement](#problem-statement)
 * [Names Contact Info Data Set](#names-contact-info-data-set)
-* [Instructions](#instructions)
+* [Technical Instructions](#technical-instructions)
+* [Submit Your Assignment](#submit-your-assignment)
 * [Bonus Points (Extra Credit)](#bonus-points-extra-credit)
 
 # Problem Statement
@@ -22,7 +23,7 @@ Transform the data as follows:
  * The Country code: `+1`
 
 ## Reporting
-The end result should be in a `.txt` file in the `output` directory, and should include:
+The output should be in a `.txt` file, and should include:
 * For each column, calculate:
   * `count`
   * `min`
@@ -44,11 +45,15 @@ In the `data` directory, the Names Contact Info Data Set (`names-contact-info.cs
 * `postal_code`
 * `phone`
 
-# Instructions
-* Please use PySpark DataFrames,
-* Please check in your code under the `code` directory for review.
+# Technical Instructions
+* Please use PySpark DataFrames.
 * Please comment your code.
 
+# Submit Your Assignment
+Please upload your code along with your output `.txt` file to your folder on the 
+[`albanero_python_data_cleansing` Google Drive](https://drive.google.com/drive/u/1/folders/13mMEIRSd9hh4skGGFEo-19agc0fdlvAy).
+
 # Bonus Points (Extra Credit)
+You get extra credit for including either or both of the following:
 * Package the project into a `.zip` or `.egg` file and run it with `spark-submit`
 * Put the code into a Jupyter Notebook that's connected to PySpark and run it from there.
