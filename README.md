@@ -50,8 +50,11 @@ In the `data` directory, the Names Contact Info Data Set (`names-contact-info.cs
 * Please comment your code.
 
 # Submit Your Assignment
-Please upload your code along with your output `.txt` file to your folder on the 
+Please submit your assignment as follows:
+* Upload your code along with your output `.txt` file to your folder on the 
 [`albanero_python_data_cleansing` Google Drive](https://drive.google.com/drive/u/1/folders/13mMEIRSd9hh4skGGFEo-19agc0fdlvAy).
+
+* Email [rahul.kumar@albanero.io](mailto:rahul.kumar@albanero.io) and [tom.marrs@albanero.io](mailto:tom.marrs@albanero.io) to inform us that you have completed your assignment.
 
 # Bonus Points (Extra Credit)
 You get extra credit for including either or both of the following:
